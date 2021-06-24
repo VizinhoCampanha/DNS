@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#Teste mudança GIT
 
 import dns_cpe_v2
 
